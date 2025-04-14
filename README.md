@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzammal Ikhlaq</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan 🚀</h3>
+<h3 align="center">A Passionate Full Stack Developer from Pakistan 🚀</h3>
 
 <img align="right" alt="Coding Hacker" width="360" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" />
 
