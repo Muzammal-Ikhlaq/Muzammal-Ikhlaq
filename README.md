@@ -3,18 +3,30 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muzammal-ikhlaq&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/Muzammal-Ikhlaq?tab=followers">
+    <img src="https://img.shields.io/github/followers/muzammal-ikhlaq?label=Followers&style=social" alt="GitHub followers" />
+  </a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm a passionate full stack developer from Pakistan with expertise in building scalable web and mobile applications. I specialize in Flutter, Python, and modern web technologies, with a keen interest in AI and solving real-world problems through code.
+I'm a passionate full stack developer from Pakistan with expertise in building scalable web and mobile applications. I specialize in Flutter, Python, and modern web technologies, with a keen interest in artificial intelligence and machine learning. I love creating intuitive user experiences and solving complex problems with clean, efficient code.
 
 - 🎓 **Currently Learning:** Advanced AI, Machine Learning & Cross-platform Development
 - 💼 **Expertise:** Flutter, Python, JavaScript, Web Development, UI/UX Design
 - 📧 **Email:** muzammalikhlaq786@gmail.com
 - 🌍 **Based in:** Pakistan
+
+---
+
+## 🎯 Looking For
+
+- 🤝 **Open to collaboration** on open-source projects
+- 💼 **Available for freelance** opportunities in Flutter & Web Development
+- 📚 **Mentoring** junior developers
+- 🚀 **Exciting projects** where I can contribute and grow
 
 ---
 
@@ -35,9 +47,6 @@ I'm a passionate full stack developer from Pakistan with expertise in building s
   </a>
   <a href="https://medium.com/@muzammalikhlaq" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://discord.gg/muzammalikhlaq" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -62,6 +71,18 @@ I'm a passionate full stack developer from Pakistan with expertise in building s
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|---|
+| [View My Projects](https://github.com/Muzammal-Ikhlaq?tab=repositories) | Explore my portfolio of applications | Flutter, Python, JavaScript |
+
+*Check my repositories to see more projects and contributions!*
 
 ---
 
@@ -81,6 +102,18 @@ I'm a passionate full stack developer from Pakistan with expertise in building s
 
 ---
 
+## 📚 Recent Activity
+
+- 🔨 Working on exciting projects with Flutter and Python
+- 💡 Constantly learning new technologies and best practices
+- 🌟 Contributing to open-source projects
+
+---
+
 <p align="center">
   <strong>Let's build something amazing together! 🚀</strong>
+</p>
+
+<p align="center">
+  <sub>⭐ Feel free to reach out for collaborations or just a friendly chat!</sub>
 </p>
