@@ -88,13 +88,6 @@ I'm a passionate full stack developer from Pakistan with expertise in building s
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammal-ikhlaq&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammal-ikhlaq&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="500" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammal-ikhlaq&theme=tokyonight" alt="GitHub Streak" width="500" />
