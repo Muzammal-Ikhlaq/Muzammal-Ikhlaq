@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a passionate full stack developer from Pakistan with expertise in building scalable web and mobile applications. I specialize in Flutter, Python, and modern web technologies, with a keen interest in AI and Machine Learning.
+I'm a passionate full stack developer from Pakistan with expertise in building scalable web and mobile applications. I specialize in Flutter, Python, and modern web technologies, with a keen interest in AI and machine learning.
 
 - 🎓 **Currently Learning:** Advanced AI, Machine Learning & Cross-platform Development
 - 💼 **Expertise:** Flutter, Python, JavaScript, Web Development, UI/UX Design
@@ -81,20 +81,21 @@ I'm a passionate full stack developer from Pakistan with expertise in building s
 ### 📱 Mobile Development
 | Project | Description | Technology | Status |
 |---------|-------------|-----------|--------|
-| [Flutter-Projects](https://github.com/Muzammal-Ikhlaq/Flutter-Projects) | Collection of Flutter applications and experiments | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | Public |
+| [gradifyai-mobile-app](https://github.com/Muzammal-Ikhlaq/gradifyai-mobile-app) | AI-powered mobile application for grading and assessment | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | Active |
+| [Flutter-Projects](https://github.com/Muzammal-Ikhlaq/Flutter-Projects) | Collection of Flutter applications and experiments | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | Active |
 
 ### 🎓 Academic & Learning Projects
 | Project | Description | Technology | Status |
 |---------|-------------|-----------|--------|
-| [Python-Projects](https://github.com/Muzammal-Ikhlaq/Python-Projects) | AI tasks and assignments, Artificial Intelligence coursework | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Private |
-| [BSCS-Projects-Experiments](https://github.com/Muzammal-Ikhlaq/BSCS-Projects-Experiments) | Rough work, drafts, and practice code for academic projects | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Private |
-| [BSCS-Projects-Final](https://github.com/Muzammal-Ikhlaq/BSCS-Projects-Final) | Final, clean, and production-ready versions of academic projects | ![Multi](https://img.shields.io/badge/Multi--Language-gray?style=flat-square) | Private |
+| [Python-Projects](https://github.com/Muzammal-Ikhlaq/Python-Projects) | AI tasks and assignments, Artificial Intelligence coursework | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Active |
+| [BSCS-Projects-Experiments](https://github.com/Muzammal-Ikhlaq/BSCS-Projects-Experiments) | Rough work, drafts, and practice code for academic projects | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Active |
+| [BSCS-Projects-Final](https://github.com/Muzammal-Ikhlaq/BSCS-Projects-Final) | Final, clean, and production-ready versions of academic projects | ![Multi](https://img.shields.io/badge/Multi--Language-FF6B6B?style=flat-square) | Active |
 
 ### 🚀 Full Stack Applications
 | Project | Description | Technology | Status |
 |---------|-------------|-----------|--------|
-| [facultylens](https://github.com/Muzammal-Ikhlaq/facultylens) | Multi-role academic attendance & faculty management system | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Private |
-| [scholar-metric](https://github.com/Muzammal-Ikhlaq/scholar-metric) | Scholarship metrics and academic tracking system | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Private |
+| [facultylens](https://github.com/Muzammal-Ikhlaq/facultylens) | Multi-role academic attendance & faculty management system | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Active |
+| [scholar-metric](https://github.com/Muzammal-Ikhlaq/scholar-metric) | Scholarship metrics and academic tracking system | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Active |
 
 ### 📚 Profile Repository
 | Project | Description | Status |
