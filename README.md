@@ -1,114 +1,55 @@
-<h1 align="center">Muzammal Ikhlaq</h1>
-<h3 align="center">Full Stack Developer | Flutter & AI Enthusiast</h3>
+# Muzammal Ikhlaq
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muzammal-ikhlaq&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/Muzammal-Ikhlaq?tab=followers">
-    <img src="https://img.shields.io/github/followers/muzammal-ikhlaq?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
+### AI-Powered Software Developer | Full-Stack Engineering & Applied Machine Learning
 
----
+I design and build production-oriented software that combines full-stack engineering with applied AI — grading platforms, RAG chatbots, explainable ML systems, computer vision tools, and SaaS dashboards. BS Computing student at Baba Guru Nanak University, and I also work in academic support within the CS & IT department, producing technical documentation and course materials.
 
-## 👋 About Me
-
-I'm a passionate full stack developer from Pakistan with expertise in building scalable web and mobile applications. I specialize in Flutter, Python, and modern web technologies, with a keen interest in AI and machine learning.
-
-- 🎓 **Currently Learning:** Advanced AI, Machine Learning & Cross-platform Development
-- 💼 **Expertise:** Flutter, Python, JavaScript, Web Development, UI/UX Design
-- 📧 **Email:** muzammalikhlaq786@gmail.com
-- 🌍 **Based in:** Pakistan
+- 🧠 Focus areas: applied NLP, explainable ML, computer vision, full-stack web & mobile development
+- 🛠 Core stack: Python · Django REST Framework · React · Flutter · Firebase · PyTorch/TensorFlow · Sentence-Transformers
+- 📍 Based in Lahore, Pakistan
+- 💼 Available for freelance work — see [Fiverr](https://www.fiverr.com/sellers/muzammal_ikhlaq/) · [Upwork](https://www.upwork.com/freelancers/~01ab533717939915c3)
+- 📫 muzammalikhlaq786@gmail.com | [LinkedIn](https://www.linkedin.com/in/muzammal-ikhlaq-189680317/) | [ORCID](https://orcid.org/0009-0000-2013-4733) | [Medium](https://medium.com/@muzammalikhlaq) | [X](https://x.com/Muzammalikhlaq)
 
 ---
 
-## 🎯 Looking For
+## Featured Projects
 
-- 🤝 **Open to collaboration** on open-source projects
-- 💼 **Available for freelance** opportunities in Flutter & Web Development
-- 📚 **Mentoring** junior developers
-- 🚀 **Exciting projects** where I can contribute and grow
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/muzammalikhlaq" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/muzammal-ikhlaq-189680317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61556634038767" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/ikhlaqmuzammal/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@muzammalikhlaq" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| **[GradifyAI — Web](https://github.com/Muzammal-Ikhlaq/gradifyai-web)** | AI-powered academic evaluation & classroom automation platform — semantic NLP grading engine | React, Vite, Tailwind CSS |
+| **[GradifyAI — Backend](https://github.com/Muzammal-Ikhlaq/gradifyai_backend)** | Automated assignment grading & classroom management backend — fine-tuned GPT model, Gemini OCR, Sentence-Transformers | Django, Sentence-Transformers, Gemini OCR |
+| **[GradifyAI — Mobile](https://github.com/Muzammal-Ikhlaq/gradifyai-mobile-app)** | AI-assisted grading mobile app — OCR document scanning, classroom management, analytics, teacher feedback | Flutter, Django REST Framework |
+| **[BGNU Smart Chatbot](https://github.com/Muzammal-Ikhlaq/bgnu-smart-chatbot)** | Production-ready RAG chatbot answering university admissions/programs/fee queries | Django, FAISS, Sentence Transformers |
+| **[Cardiovascular Risk Prediction (Explainable AI)](https://github.com/Muzammal-Ikhlaq/cardiovascular-risk-prediction-ai)** | Predicts 10-year CHD risk from Framingham clinical data, with SHAP-based explainability | Python, Flask, LSTM, XGBoost, SHAP |
+| **[FacultyLens](https://github.com/Muzammal-Ikhlaq/facultylens)** | Multi-role academic attendance & faculty management system, deployed to Firebase Hosting | React, Firebase, Vite, Tailwind CSS |
+| **[AI Text Summarizer](https://github.com/Muzammal-Ikhlaq/ai-text-summarizer)** | High-precision text summarization web app powered by a fine-tuned T5 transformer | Python, HuggingFace, T5 |
+| **[SpeakSign AI](https://github.com/Muzammal-Ikhlaq/SpeakSign-AI)** | Real-time voice-to-sign-language translator & ASL gesture recognition studio | Python, Flask, TensorFlow (CNN), Web Speech API |
 
 ---
 
-## 🛠️ Tech Stack
+## All Projects
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**AI / Machine Learning**
+- **[VoiceClone AI Studio](https://github.com/Muzammal-Ikhlaq/VoiceClone-AI-Studio)** — Real-time neural voice cloning studio (SV2TTS, Tacotron2, WaveRNN) with an interactive dashboard
+- **[AI vs Human Code Detector](https://github.com/Muzammal-Ikhlaq/ai-vs-human-code-detector)** — ML web & desktop app that classifies source code as human- or AI-written
+- **[Second-Hand Car Rate Prediction](https://github.com/Muzammal-Ikhlaq/second-hand-car-rate-prediction)** — Resale price predictor using a Random Forest regressor (96.52% R²), with a SaaS-style dashboard
 
-### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Materialize](https://img.shields.io/badge/Materialize-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**Full-Stack Web**
+- **[Scholar Metric](https://github.com/Muzammal-Ikhlaq/scholar-metric)** — Role-based faculty attendance monitoring & analytics platform with JWT auth and timetable management (Django REST Framework + React)
+- **[Furniture POS Management System](https://github.com/Muzammal-Ikhlaq/furniture-pos-management-system)** — Full-stack furniture store management & point-of-sale app (Flask + SQLite)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Practice**
+- **[Web Development Practice](https://github.com/Muzammal-Ikhlaq/Web-Development-Practice)** — Structured HTML5/CSS3/JavaScript exercises and responsive design tasks
 
 ---
 
-## 💼 My Projects
+## Tech Stack
 
-### 📱 Mobile Development
-| Project | Description | Technology | Visibility |
-|---------|-------------|-----------|--------|
-| [gradifyai-mobile-app](https://github.com/Muzammal-Ikhlaq/gradifyai-mobile-app) | AI-powered mobile application for grading and assessment | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | 🔒 Private |
-| [Flutter-Projects](https://github.com/Muzammal-Ikhlaq/Flutter-Projects) | Collection of Flutter applications and experiments | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | 🌐 Public |
-
-### 🎓 Academic & Learning Projects
-| Project | Description | Technology | Visibility |
-|---------|-------------|-----------|--------|
-| [Python-Projects](https://github.com/Muzammal-Ikhlaq/Python-Projects) | AI tasks and assignments, Artificial Intelligence coursework | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🔒 Private |
-| [BSCS-Projects-Experiments](https://github.com/Muzammal-Ikhlaq/BSCS-Projects-Experiments) | Rough work, drafts, and practice code for academic projects | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 🔒 Private |
-| [BSCS-Projects-Final](https://github.com/Muzammal-Ikhlaq/BSCS-Projects-Final) | Final, clean, and production-ready versions of academic projects | ![Multi](https://img.shields.io/badge/Multi--Language-FF6B6B?style=flat-square) | 🔒 Private |
-
-### 🚀 Full Stack Applications
-| Project | Description | Technology | Visibility |
-|---------|-------------|-----------|--------|
-| [facultylens](https://github.com/Muzammal-Ikhlaq/facultylens) | Multi-role academic attendance & faculty management system | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔒 Private |
-| [scholar-metric](https://github.com/Muzammal-Ikhlaq/scholar-metric) | Scholarship metrics and academic tracking system | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔒 Private |
-
-### 📚 Profile Repository
-| Project | Description | Visibility |
-|---------|-------------|--------|
-| [Muzammal-Ikhlaq](https://github.com/Muzammal-Ikhlaq/Muzammal-Ikhlaq) | GitHub Profile Repository | 🌐 Public |
-
----
-
-## 📊 Repository Summary
-
-- **Total Repositories:** 8
-- **Public:** 2 🌐 (Flutter-Projects, Muzammal-Ikhlaq Profile)
-- **Private:** 6 🔒 (gradifyai-mobile-app, Python-Projects, BSCS-Projects-Experiments, BSCS-Projects-Final, facultylens, scholar-metric)
+**Languages:** Python · Dart · JavaScript · SQL · C/C++ <br>
+**Web:** React · Vite · Django · Django REST Framework · REST APIs <br>
+**Mobile:** Flutter · Firebase · Firestore · SQLite <br>
+**AI/ML:** PyTorch · TensorFlow · Scikit-learn · Sentence-Transformers · XGBoost · SHAP · OCR · NLP · Computer Vision <br>
+**Tools:** Git · PostgreSQL · FAISS · draw.io/UML diagramming <br>
 
 ---
 
@@ -120,19 +61,15 @@ I'm a passionate full stack developer from Pakistan with expertise in building s
 
 ---
 
-## 📚 Recent Activity
+## Freelance Services
 
-- 🔨 Working on exciting projects with Flutter and Python
-- 💡 Constantly learning new technologies and best practices
-- 🌟 Contributing to open-source projects
-- 🎯 Building full-stack applications with modern technologies
+Available on **[Fiverr](https://www.fiverr.com/sellers/muzammal_ikhlaq/)** and **[Upwork](https://www.upwork.com/freelancers/~01ab533717939915c3)** for:
+- Full-stack web development (Django, React)
+- Mobile app development (Flutter, Firebase)
+- AI/ML application development
+- UML & software architecture diagrams
+- Technical & academic documentation
 
 ---
 
-<p align="center">
-  <strong>Let's build something amazing together! 🚀</strong>
-</p>
-
-<p align="center">
-  <sub>⭐ Feel free to reach out for collaborations or just a friendly chat!</sub>
-</p>
+⭐ Open to freelance collaboration and full-stack / applied-AI opportunities.
