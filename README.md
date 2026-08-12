@@ -8,7 +8,7 @@ I design and build production-oriented software that combines full-stack enginee
 - 🛠 Core stack: Python · Django REST Framework · React · Flutter · Firebase · PyTorch/TensorFlow · Sentence-Transformers
 - 📍 Based in Lahore, Pakistan
 - 💼 Available for freelance work — see [Fiverr](https://www.fiverr.com/muzammal_ikhlaq/) · [Upwork](https://www.upwork.com/freelancers/~01ab533717939915c3)
-- 📫 muzammalikhlaq786@gmail.com | [LinkedIn](https://www.linkedin.com/in/muzammal-ikhlaq-189680317/) | [ORCID](https://orcid.org/0009-0000-2013-4733) | [Medium](https://medium.com/@muzammalikhlaq) | [X](https://x.com/Muzammalikhlaq)
+- 📫 muzammalikhlaq786@gmail.com | [LinkedIn](https://www.linkedin.com/in/muzammalikhlaq-189680317/) | [ORCID](https://orcid.org/0009-0000-2013-4733) | [Medium](https://medium.com/@muzammalikhlaq) | [X](https://x.com/Muzammalikhlaq)
 
 ---
 
